@@ -1,0 +1,8 @@
+websockets>=12.0
+msgpack>=1.0.0
+msgpack-numpy>=0.4.0
+numpy>=1.20.0
+opencv-python>=4.5.0
+pandas>=1.5.0
+av>=10.0.0
+matplotlib>=3.5.0
