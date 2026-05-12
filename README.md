@@ -99,6 +99,9 @@ Each episode provides multiple data types. You can choose which fields to use fo
 
 Tabletop tasks = **56D**, Mobile Manipulation tasks = **62D** (56D + 6D mobile extras).
 
+> [!IMPORTANT]
+> The **mobile manipulation track (semi-finals)** uses a different protocol — UPPERCASE keys plus extra chassis / lift / head fields. See [`docs/mobile_manipulation.md`](docs/mobile_manipulation.md) for the full protocol, safety limits, and the required pose ↔ velocity conversion.
+
 **End-effector (index 0–13, 14D):**
 
 | Index | Field | Dim | Description |
